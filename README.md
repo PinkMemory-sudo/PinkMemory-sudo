@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PinkMemory-sudo
-- 👀 I’m interested in web and IoT
+- 👀 I’m interested in web3.0 and IoT
 - 🌱 I’m currently learning SpringCloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 504489519@qq.com
